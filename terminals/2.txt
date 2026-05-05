@@ -1,0 +1,6 @@
+---
+pid: 4356
+cwd: |
+  C:\Users\VICTUS
+---
+PS C:\Users\VICTUS>

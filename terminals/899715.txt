@@ -1,0 +1,12 @@
+---
+cwd: "C:\\Users\\VICTUS"
+command: "python -m http.server 4173"
+started_at: 2026-05-05T05:50:56.033Z
+running_for_ms: 3        
+---
+
+---
+error: "Sandbox policy 'workspace_readwrite' is not supported on this system. Ensure the sandbox helper binary is available, or use 'insecure_none'. Reason: Windows sandbox helper only provides network proxy, not filesystem isolation"
+elapsed_ms: 20
+ended_at: 2026-05-05T05:50:56.053Z
+---
